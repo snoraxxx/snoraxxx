@@ -8,7 +8,7 @@ I am currently pursuing  a degree in computer science to further educate my self
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,css,html,js,mysql,nodejs,py,tailwind,mongodb,golang,neovim,linux,postman,worker&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,js,ts,redis,prisma,drizzle,bun,mysql,nodejs,py,tailwind,mongodb,golang,neovim,linux,postman,worker&perline=9" />
   </a>
 </p>
 
